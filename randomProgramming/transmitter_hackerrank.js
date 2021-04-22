@@ -1,5 +1,5 @@
  
-/ Complete the hackerlandRadioTransmitters function below.
+// Complete the hackerlandRadioTransmitters function below.
 function hackerlandRadioTransmitters(x, k) {
     x.sort((a, b) => {return a-b})
     let allHouseCovered = false;
